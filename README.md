@@ -24,6 +24,7 @@ end
 
 # Usage:
 # all_cycles(%{"active" => "true", "owner_id" => "123"})
+```
 
 Just pass your params map (for example, from query params or a controller) and any options. ListQuery turns them into an Ecto query ready for use with your Repo.
 
