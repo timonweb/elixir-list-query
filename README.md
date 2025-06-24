@@ -1,4 +1,4 @@
-# ListQuery
+# Elixir ListQuery
 
 **ListQuery** is a lightweight Elixir library designed to make building dynamic [Ecto](https://hexdocs.pm/ecto/Ecto.html) queries from API parameters simple and flexible.
 
